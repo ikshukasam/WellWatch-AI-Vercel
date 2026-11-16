@@ -1,0 +1,4 @@
+well_id,sensor_status,last_reading_date,days_since_reading,missing_days_last_7,reason
+Well_A,OK,2026-11-16,0,0,Sensor readings appear normal
+Well_B,OK,2026-11-16,0,0,Sensor readings appear normal
+Well_C,OK,2026-11-16,0,0,Sensor readings appear normal

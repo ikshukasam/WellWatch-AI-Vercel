@@ -1,0 +1,4 @@
+well_id,risk_level,current_depth,predicted_depth_21_days,depth_change_per_day,salinity_change_per_day,validation_error_band,recommended_action
+Well_A,WATCH,16.39,16.63,0.017,1.223,0.11,Increase monitoring frequency and inspect the well and pumping activity.
+Well_B,HIGH,22.06,22.99,0.0473,4.582,0.131,"Inspect the well, verify sensor readings, and assess pumping conditions. Prepare alternative water arrangements."
+Well_C,LOW,12.33,12.52,0.0039,0.468,0.12,Continue routine monitoring and record daily measurements.
